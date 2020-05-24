@@ -103,7 +103,7 @@
 <!--         <finalName>jenkins-sample-web</finalName> -->
     </build>
 
-    <dependencies>
+    
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
