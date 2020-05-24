@@ -179,7 +179,7 @@
         <!--</dependency>-->
 
     </dependencies>
-<dependencies>
+
 		<dependency>
 			<groupId>org.codehaus.cargo</groupId>
 			<artifactId>cargo-core-api-generic</artifactId>
